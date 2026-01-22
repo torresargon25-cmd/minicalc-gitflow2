@@ -4,6 +4,7 @@ package ejercicio;
 package ejercicio;
 
 public class MiniCalc {
+// MiniCalc v1.0.0
 
     public static void main(String[] args) {
         // Puedes probar aquí si quieres
@@ -18,4 +19,4 @@ public class MiniCalc {
     public static int subtract(int a, int b) {
         return a - b;
     }
-}
+
